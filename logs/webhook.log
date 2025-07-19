@@ -1,0 +1,44 @@
+2025-07-19 18:49:29 - Webhook recebido: 
+2025-07-19 18:50:12 - Webhook recebido: 
+2025-07-19 18:50:14 - Webhook recebido: 
+2025-07-19 18:54:15 - Pedido ID: 0, Status: debug, Resultado: Input recebido: 
+2025-07-19 18:54:43 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":1,"status":"processando"}
+2025-07-19 18:54:43 - Pedido ID: 1, Status: processando, Resultado: Status do pedido atualizado
+2025-07-19 18:55:06 - Pedido ID: 0, Status: debug, Resultado: Input recebido: 
+2025-07-19 18:55:18 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":1,"status":"enviado"}
+2025-07-19 18:55:18 - Pedido ID: 1, Status: enviado, Resultado: Status do pedido atualizado
+2025-07-19 18:55:20 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":1,"status":"enviado"}
+2025-07-19 18:55:20 - Pedido ID: 1, Status: enviado, Resultado: Status do pedido atualizado
+2025-07-19 18:55:23 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":1,"status":"cancelado"}
+2025-07-19 18:55:23 - Pedido ID: 1, Status: cancelado, Resultado: Pedido cancelado e removido
+2025-07-19 18:55:25 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":1,"status":"entregue"}
+2025-07-19 18:55:26 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":1,"status":"entregue"}
+2025-07-19 18:55:38 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":2,"status":"entregue"}
+2025-07-19 18:55:38 - Pedido ID: 2, Status: entregue, Resultado: Status do pedido atualizado
+2025-07-19 18:55:43 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":3,"status":"entregue"}
+2025-07-19 18:55:50 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":2,"status":"entregue"}
+2025-07-19 18:55:50 - Pedido ID: 2, Status: entregue, Resultado: Status do pedido atualizado
+2025-07-19 18:55:55 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":2,"status":"cancelado"}
+2025-07-19 18:55:55 - Pedido ID: 2, Status: cancelado, Resultado: Pedido cancelado e removido
+2025-07-19 18:56:56 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":2,"status":"processando"}
+2025-07-19 18:56:59 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":2,"status":"processando"}
+2025-07-19 18:57:07 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":1,"status":"processando"}
+2025-07-19 18:57:08 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":1,"status":"processando"}
+2025-07-19 18:57:09 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":1,"status":"processando"}
+2025-07-19 18:59:35 - Pedido ID: 0, Status: debug, Resultado: Input recebido: {"pedido_id":3,"status":"enviado"}
+2025-07-19 18:59:35 - Pedido ID: 3, Status: enviado, Resultado: Status do pedido atualizado
+2025-07-19 18:59:55 - Pedido ID: 0, Status: debug, Resultado: Input recebido: 
+2025-07-19 19:04:28 - Pedido ID: 0, Status: debug, Resultado: Input recebido: 
+2025-07-19 19:07:31 - Pedido ID: 0, Status: debug, Resultado: Input recebido: 
+2025-07-19 19:10:46 - Pedido ID: 0, Status: debug, Resultado: Debug Info: {"method":"POST","content_type":"not set","input_length":0,"input_content":"","json_decode_result":null,"json_last_error":"Syntax error"}
+2025-07-19 19:12:37 - Pedido ID: 0, Status: debug, Resultado: Debug Info: {"method":"POST","content_type":"not set","input_length":0,"input_content":"","json_decode_result":null,"json_last_error":"Syntax error"}
+2025-07-19 19:12:59 - Pedido ID: 0, Status: debug, Resultado: Debug Info: {"method":"POST","content_type":"not set","input_length":0,"input_content":"","json_decode_result":null,"json_last_error":"Syntax error"}
+2025-07-19 19:13:25 - Pedido ID: 0, Status: debug, Resultado: Debug Info: {"method":"POST","content_type":"not set","input_length":0,"input_content":"","json_decode_result":null,"json_last_error":"Syntax error"}
+2025-07-19 19:14:40 - Pedido ID: 0, Status: debug, Resultado: Debug Info: {"method":"POST","content_type":"not set","input_length":0,"input_content":"","json_decode_result":null,"json_last_error":"Syntax error"}
+2025-07-19 19:15:26 - Pedido ID: 0, Status: debug, Resultado: Debug Info: {"method":"POST","content_type":"application\/json","input_length":0,"input_content":"","json_decode_result":null,"json_last_error":"Syntax error"}
+2025-07-19 19:16:03 - Pedido ID: 0, Status: debug, Resultado: Debug Info: {"method":"POST","content_type":"application\/json","input_length":41,"input_content":"{\"pedido_id\": 3, \"status\": \"processando\"}","json_decode_result":{"pedido_id":3,"status":"processando"},"json_last_error":"No error"}
+2025-07-19 19:16:03 - Pedido ID: 3, Status: processando, Resultado: Status do pedido atualizado
+2025-07-19 19:22:43 - Pedido ID: 0, Status: debug, Resultado: Debug Info: {"method":"POST","content_type":"not set","input_length":0,"input_content":"","json_decode_result":null,"json_last_error":"Syntax error"}
+2025-07-19 19:23:19 - Pedido ID: 0, Status: debug, Resultado: Debug Info: {"method":"POST","content_type":"application\/json","input_length":0,"input_content":"","json_decode_result":null,"json_last_error":"Syntax error"}
+2025-07-19 19:24:34 - Pedido ID: 0, Status: debug, Resultado: Debug Info: {"method":"POST","content_type":"application\/json","input_length":37,"input_content":"{\"pedido_id\": 3, \"status\": \"enviado\"}","json_decode_result":{"pedido_id":3,"status":"enviado"},"json_last_error":"No error"}
+2025-07-19 19:24:34 - Pedido ID: 3, Status: enviado, Resultado: Status do pedido atualizado
