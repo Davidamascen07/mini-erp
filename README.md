@@ -22,6 +22,8 @@ Sistema de controle de Pedidos, Produtos, Cupons e Estoque desenvolvido em PHP p
 - Apache/Nginx (XAMPP recomendado para desenvolvimento)
 - Extensões PHP: PDO, mysqli, curl, openssl
 
+
+![Mini ERP - Tela de Produtos](assets/screenshot.png)
 ## 🛠️ Instalação
 
 ### 1. Clone/Baixe o projeto
